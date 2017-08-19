@@ -1,0 +1,2 @@
+# self
+my_project
